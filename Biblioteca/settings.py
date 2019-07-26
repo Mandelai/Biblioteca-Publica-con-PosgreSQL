@@ -29,7 +29,7 @@ SECRET_KEY = os.environ.get('DJANGO_SECRET_KEY', '^sk6qs3vrjb53udrk_^g&dd--$qt1v
 DEBUG = os.environ.get('DJANGO_DEBUG', '') != 'False'
 
 # ALLOWED_HOSTS = []
-ALLOWED_HOSTS = ['limitless-crag-12453.herokuapp.com','127.0.0.1']
+ALLOWED_HOSTS = ['limitless-brook-28769.herokuapp.com','127.0.0.1']
 
 
 # Application definition
